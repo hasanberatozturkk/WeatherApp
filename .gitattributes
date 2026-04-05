@@ -1,7 +1,9 @@
-# GitHub'a bu klasörleri dil istatistiklerinden muaf tutmasını söyler
-android/* linguist-vendored
-ios/* linguist-vendored
-windows/* linguist-vendored
-linux/* linguist-vendored
-macos/* linguist-vendored
-web/* linguist-vendored
+
+android/* linguist-documentation
+ios/* linguist-documentation
+windows/* linguist-documentation
+linux/* linguist-documentation
+macos/* linguist-documentation
+web/* linguist-documentation
+
+lib/*.dart linguist-detectable=trueored
