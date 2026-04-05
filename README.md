@@ -5,7 +5,7 @@
 * Animasyonlar `weather_animation` paketi kullanılarak hazırlanmıştır.
 * Veriler anlık olarak **OpenWeatherMap API** üzerinden çekilmiştir.
 * Kullanıcının mevcut durumuna göre otomatik hava durumu getirilmiştir.
-* Gün içerisinde 3 saatlik aralıklarla ve gelecek 5 günün hava durumu bilgleri vardır.
+* Gün içerisinde 3 saatlik aralıklarla ve gelecek 5 günün hava durumu bilgileri vardır.
 * Dünya genelinde istenilen bir şehrin hava durumu bilgisini sorgulama getirilmiştir.
 
 ---
