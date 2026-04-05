@@ -1,17 +1,31 @@
-# weather_app
+# ☁️ Weather App
+**Flutter** framework'ü kullanılarak geliştirilmiş, anlık hava durumu bilgisine uygun animasyonlar kullanılmış bir hava durumu uygulamasıdır.
 
-A new Flutter project.
+## ✨ Özellikler
+* Animasyonlar `weather_animation` paketi kullanılarak hazırlanmıştır.
+* Veriler anlık olarak **OpenWeatherMap API** üzerinden çekilmiştir.
+* Kullanıcının mevcut durumuna göre otomatik hava durumu getirilmiştir.
+* Gün içerisinde 3 saatlik aralıklarla ve gelecek 5 günün hava durumu bilgleri vardır.
+* Dünya genelinde istenilen bir şehrin hava durumu bilgisini sorgulama getirilmiştir.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Kullanılan Teknolojiler
 
-A few resources to get you started if this is your first Flutter project:
+* **Framework:** Flutter
+* **Programlama Dili:** Dart
+* **API Servisi:** OpenWeatherMap
+* **Durum Yönetimi:** StatefulWidget
+* **IDEA:** Android Studio
+* **Temel Paketler:**
+  * `geolocator`: Hassas konum servisleri için.
+  * `weather_animation`: Yüksek kaliteli görsel efektler için.
+  * `http`: Güçlü API iletişimi için.
+ 
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Kurulum
+1. Repoyu klonlayın.
+2. `flutter pub get` komutunu çalıştırın.
+3. Kendi OpenWeather API anahtarınızı ilgili dosyaya ekleyin.
+4. `flutter run` ile başlatın.
