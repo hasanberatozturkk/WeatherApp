@@ -16,7 +16,7 @@
 * **Programlama Dili:** Dart
 * **API Servisi:** OpenWeatherMap
 * **Durum Yönetimi:** StatefulWidget
-* **IDEA:** Android Studio
+* **IDE:** Android Studio
 * **Temel Paketler:**
   * `geolocator`: Hassas konum servisleri için.
   * `weather_animation`: Yüksek kaliteli görsel efektler için.
